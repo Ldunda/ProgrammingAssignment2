@@ -1,4 +1,4 @@
-
+## This function creates a matrix object
 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
